@@ -32,7 +32,7 @@
 
 <br>
 
-<h3> 🔧 Skills & Tech & Tools  🧰 </h3>
+<h3> 🔧 Skills & Tech & Tools 🧰 </h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,git,linux,bash,docker,aws,flask,vim,html,css,github,vscode,grafana,&perline=5)](https://skillicons.dev)
