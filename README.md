@@ -44,8 +44,12 @@
 
 <h3> 🚀 Projects (highlights) </h3>
 
-- **[Personal Website](logicand.space)** — portfolio and blog.  
-- **[Café CLI](https://github.com/Eng-ADAL/DoubleShotTerminal)** — Café management app to → raw CSV → cleaned 3NF schema; includes unit tests and docs.  
+- **[Personal Website](logicand.space)** — portfolio and blog.
+
+- **[Tracker](https://github.com/Eng-ADAL/Tracker)** - Python-based data capture tool turning messy copy-paste into clean, structured datasets. 
+
+- **[Café CLI](https://github.com/Eng-ADAL/CoffeeShop_Manager)** — Café management app to → raw CSV → cleaned 3NF schema; includes unit tests and docs.  
+
 - **[ETL-LoClo](https://github.com/Eng-ADAL/ETLMaster)** — Dockerised ETL mastering tool runs on local and cloud (coming soon)
 
 Each project repo contains a clear README, usage instructions and a short reflection on lessons learned.
