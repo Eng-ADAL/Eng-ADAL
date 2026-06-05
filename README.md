@@ -1,8 +1,6 @@
 <div align="center">
 
-# A. DAL
-
--------------------
+<h1>A. DAL</h1>
 
 ## Systems • Data • Automation
 
@@ -11,7 +9,17 @@
 [![Python](https://img.shields.io/badge/Python-Automation%20%26%20ETL-yellow)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-Reproducible%20Environments-2496ED)](https://github.com/)
 
-I build practical software and systems that reduce friction, improve reliability, and make work easier to run.
+<br>
+
+**I build practical software and systems that reduce friction, improve reliability, and make work easier to run.**
+
+<br>
+
+### Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=python,postgres,git,linux,bash,docker,fastapi,aws,ai,flask,vim,github,grafana,vscode,vscodium,html,css,cloudflare,autocad,debian,&perline=10)](https://skillicons.dev)
+
+</div>
 
 ## What I work on
 
@@ -120,11 +128,9 @@ Built for sharing project context without exposing the whole filesystem.
 
 ## **[Writing](https://medium.com/@Eng-ADAL)**.
 
-I publish practical notes on Medium.
+I publish practical notes, you can read them on **[Medium](https://medium.com/@Eng-ADAL)**.
 
-You can read them on **[Medium](https://medium.com/@Eng-ADAL)**.
-
-## **[Personal Website](https://logicand.space)**
+## **[Website](https://logicand.space)**
 Minimal static website built with **HTML and CSS**.
 
 Purpose:
@@ -148,9 +154,6 @@ Purpose:
 
   **[LinkedIn](https://linkedin.com/in/EngADAL)**    |    **[Medium](https://medium.com/@Eng-ADAL)**    |    **[Website](https://adal.page)**  
 
-## Tech Stack
-
-[![Skills](https://skillicons.dev/icons?i=python,postgres,git,linux,debian,bash,docker,aws,ai,flask,vim,github,grafana,vscode,vscodium,html,css,cloudflare,autocad,&perline=6)](https://skillicons.dev)
 
 </div>
 
